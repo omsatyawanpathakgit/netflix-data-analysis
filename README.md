@@ -4,7 +4,7 @@ Performed exploratory-data-analysis (EDA) for netflix using the following tools:
 
 
 
-I have done the follwing data analysis on different platforms:
+I have done the following data analysis on different platforms:
           1) Microsoft Excel:
             a) Frequency of each content-type (represented on a horizontal bar-graph)
             b) Yearly contribution of titles to the netflix content-library. (represented on a pie-chart and donut-chart)
