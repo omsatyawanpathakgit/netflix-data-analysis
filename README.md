@@ -53,6 +53,9 @@ I have done the follwing data analysis on different platforms:
             '''
             '''
           3) Python Programming    AND            ML EDA (i.e. Machine Learning EDA):
+                    ML EDA PART: 
+                    i) Movie (and / or) TV-Show recommendation (using a GUI (Graphical-User-Interface))  [NOTE: but will recommend only upon existing entries in the dataset]
+                    ii) Predicting whether any new entry is a Movie / TV Show.
                     (along with brief information about Netflix as a company)
             a) Frequency of each content-type (i.e No. of movies v/s No. of tv-shows) (represented on a horizontal bar-graph)
             b) No. of releases in each year (represeted on a lineplot)
